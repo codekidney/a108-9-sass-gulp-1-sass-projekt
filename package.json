@@ -1,0 +1,22 @@
+{
+  "name": "a108-9-sass-gulp-1-sass-projekt",
+  "version": "1.0.0",
+  "description": "Fix layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "gulp",
+    "fix",
+    "layout"
+  ],
+  "author": "Kamil Nowak <info@kamilnowak.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
